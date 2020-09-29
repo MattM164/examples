@@ -1,6 +1,6 @@
 # CS3560 - Example Project
 
-This is my edit in the Forked Repo
+This is my edit in the Forked Repo.  This shows that this repo can be edited by students
 
 
 Example project that uses Doxygen, Makefile, Catch2, Travis CI.
